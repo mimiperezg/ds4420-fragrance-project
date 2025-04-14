@@ -33,8 +33,8 @@ def home():
     st.subheader("MLP Model for Luxury Classification")
     st.write(
         """
-        The **MLP model** classifies perfumes as **luxury** or **non-luxury** using features like the perfume's scent composition, customer ratings, and price.
-        We used a dataset with fragrance notes and accords, optimizing hyperparameters like learning rate and the number of neurons in the hidden layer.
+        The **MLP model** classifies perfumes as **luxury** or **non-luxury** using features like the perfume's scent composition and customer ratings.
+        We used a dataset with fragrance scents and categorized brands as luxury or not, optimizing hyperparameters like learning rate and the number of neurons in the hidden layer.
         """
     )
 
