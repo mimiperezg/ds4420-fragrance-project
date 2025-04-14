@@ -1,4 +1,7 @@
-# FragranceML: Classifying and Recommending Fragrances
+# FragranceML: Fragrance Classification and Content-Based Recommendation
+
+### Live App: https://fragrance-ml.streamlit.app/
+
 
 | File/Folder              | Description                                                                 |
 |--------------------------|-----------------------------------------------------------------------------|
@@ -7,3 +10,25 @@
 | `mlp_model.Rmd`          | R Markdown Multilayer Perceptron (MLP) classifier to predict luxury vs. budget perfumes |
 | `preprocess.ipynb`       | Data preprocessing, cleaning, merging Fragrantica and eBay datasets         |
 | `web_scrape.ipynb`       | Selenium manual web scraper for extracting Fragrantica data                 
+
+
+## Project Objectives
+- **Supervised Classification**: Develop MLP model to classify luxury vs. non-luxury perfumes based on fragrance composition and customer ratings  
+- **Content-Based Recommendation**: Implement a recommendation system using TF-IDF and cosine similarity to identify perfumes with semantically similar note profiles
+
+## Data Collection & Preprocessing
+- Fragrantica Dataset: Through Kaggle, and some web-scraped using Selenium, containing scent notes, main accords, ratings, and brand names
+- eBay Dataset: Kaggle dataset with resale pricing data used to infer luxury vs. budget classification
+
+## To run app locally:
+git clone https://github.com/mimiperezg/ds4420-fragrance-project.git
+cd ds4420-fragrance-project
+pip install -r requirements.txt
+streamlit run app.py
+
+## Contributors
+Mimi Perez (@mimiperezg)
+Angela Wu (@angw100)
+
+## Acknowledgements
+This project was developed as part of DS 4420: Machine Learning at Northeastern University. Data was obtained from publicly available sources (Fragrantica, eBay) for academic purposes.
