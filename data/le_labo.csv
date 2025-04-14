@@ -1,0 +1,14 @@
+name,gender,rating_value,rating_count,year,notes,mainaccord1,mainaccord2,mainaccord3,mainaccord4
+ambrette-9,unisex,3.7,920,2006,"['ambrette (musk mallow)', 'fruity notes', 'musk', 'aldehydes', 'amalfi lemon', 'amber']",musky,fruity,floral,sweet
+lys-41,women,4.16,"1,733",2013,"['tuberose', 'lily', 'jasmine', 'vanilla', 'musk', 'woody notes']",white floral,tuberose,animalic,vanilla
+the-matcha-26,unisex,4.13,"2,381",2021,"['fig', 'cedar', 'matcha tea', 'bitter orange', 'vetiver']",woody,fruity,citrus,green
+santal-33,unisex,3.77,"10,002",2011,"['sandalwood', 'leather', 'papyrus', 'virginia cedar', 'cardamom', 'violet', 'iris', 'amber']",woody,powdery,leather,warm spicy
+baie-19,unisex,3.81,"1,412",2019,"['patchouli', 'ozonic notes', 'juniper berries', 'green leaves', 'ambroxan', 'musk']",patchouli,ozonic,woody,musky
+bergamote-22,unisex,4.16,"3,203",2006,"['bergamot', 'vetiver', 'grapefruit', 'orange blossom', 'petitgrain', 'musk', 'cedar', 'vanilla', 'amber']",citrus,aromatic,woody,fresh spicy
+eucalyptus-20,unisex,3.83,206,2025,"['olibanum', 'gurjan balsam', 'cedarwood', 'eucalyptus', 'labdanum', 'hyssop', 'red thyme', 'musk']",woody,amber,fresh spicy,aromatic
+fleur-d'oranger-27,unisex,3.97,935,2006,"['orange blossom', 'petitgrain', 'bergamot', 'lemon']",citrus,white floral,aromatic,fresh spicy
+tonka-25,unisex,3.81,"1,157",2018,"['musk', 'atlas cedar', 'tonka bean', 'orange blossom', 'styrax', 'vanilla']",woody,musky,vanilla,amber
+ylang-49,women,3.89,"1,163",2015,"['ylang-ylang', 'patchouli', 'oakmoss', 'tahitian gardenia', 'vetiver', 'benzoin', 'sandalwood']",woody,earthy,yellow floral,patchouli
+labdanum-18,unisex,3.99,"1,406",2006,"['french labdanum', 'vanilla', 'civetta', 'musk', 'castoreum', 'resins', 'tonka bean', 'gurjan balsam', 'birch', 'patchouli', 'cinnamon']",musky,amber,woody,vanilla
+jasmin-17,unisex,3.86,966,2006,"['orange blossom', 'jasmine', 'bitter orange', 'neroli', 'musk', 'vanilla', 'palmarosa', 'litsea cubeba', 'amber', 'sandalwood']",white floral,citrus,fresh,green
+vetiver-46,unisex,4.01,"1,231",2006,"['olibanum', 'tahitian vetiver', 'pepper', 'guaiac wood', 'labdanum', 'cedar', 'cloves', 'bergamot', 'amber', 'vanilla']",woody,amber,fresh spicy,warm spicy
