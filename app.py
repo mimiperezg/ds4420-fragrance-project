@@ -55,8 +55,9 @@ def collaborative_filtering():
         """
         ### Instructions:
         - Use **dashes (-)** instead of spaces in perfume names (e.g., `poppy-barley`).
+        - Disregard the word "and" in perfume names if they exist (e.g., `poppy-and-barley` becomes `poppy-barley`
         - Brand names are **case-insensitive** (e.g., `Le-Labo` or `le-labo`).
-        - For some names like `Chanel No 5`, use `n05`.
+        - For some names like `Chanel No 5`, write `chanel-n05`.
         """
     )
 
