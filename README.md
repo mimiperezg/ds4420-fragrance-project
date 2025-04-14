@@ -1,4 +1,4 @@
-# FragranceML: Fragrance Classification and Content-Based Recommendation
+# The Fragrance Aesthetic: Fragrance Classification and Recommendation
 
 ### Live App: https://fragrance-ml.streamlit.app/
 
