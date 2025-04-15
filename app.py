@@ -15,7 +15,7 @@ def home():
     st.write(
         """
         This project explores the intersection of identity, aesthetics, and consumer behavior in the world of perfume. 
-        Using **machine learning**, our system classifies perfumes as luxury or non-luxury based on scent profiles and customer ratings, 
+        Our system classifies perfumes as luxury or non-luxury based on scent profiles and customer ratings, 
         while also offering personalized fragrance recommendations.
         """
 )
