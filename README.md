@@ -20,11 +20,6 @@
 - Fragrantica Dataset: Through Kaggle, and some web-scraped using Selenium, containing scent notes, main accords, ratings, and brand names
 - eBay Dataset: Kaggle dataset with resale pricing data used to infer luxury vs. budget classification
 
-## To run app locally:
-git clone https://github.com/mimiperezg/ds4420-fragrance-project.git
-cd ds4420-fragrance-project
-pip install -r requirements.txt
-streamlit run app.py
 
 ## Contributors
 Mimi Perez (@mimiperezg)
