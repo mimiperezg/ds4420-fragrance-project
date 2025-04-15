@@ -10,7 +10,7 @@
 | `mlp_model.Rmd`          | R Markdown Multilayer Perceptron (MLP) classifier to predict luxury vs. budget perfumes |
 | `preprocess.ipynb`       | Data preprocessing, cleaning, merging Fragrantica and eBay datasets         |
 | `web_scrape.ipynb`       | Selenium manual web scraper for extracting Fragrantica data                 
-
+| `collab_filter_model.py`       | Python code for content-based collaborative filtering for the Streamlit app          
 
 ## Project Objectives
 - **Supervised Classification**: Develop MLP model to classify luxury vs. non-luxury perfumes based on fragrance composition and customer ratings  
