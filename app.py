@@ -14,8 +14,8 @@ def home():
     st.header("Introduction")
     st.write(
         """
-        This project explores the intersection of **identity**, **aesthetics**, and **consumer behavior** in the world of perfume. 
-        Using **machine learning**, our system classifies perfumes as **luxury** or **non-luxury** based on scent profiles and customer ratings, 
+        This project explores the intersection of identity, aesthetics, and consumer behavior in the world of perfume. 
+        Using **machine learning**, our system classifies perfumes as luxury or non-luxury based on scent profiles and customer ratings, 
         while also offering personalized fragrance recommendations.
         """
 )
@@ -33,7 +33,7 @@ def home():
     st.subheader("MLP Model for Luxury Classification")
     st.write(
         """
-        The **MLP model** classifies perfumes as **luxury** or **non-luxury** using features like the perfume's scent composition and customer ratings.
+        The MLP model classifies perfumes as luxury or non-luxury using features like the perfume's scent composition and customer ratings.
         We used a dataset with fragrance scents and categorized brands as luxury or not, optimizing hyperparameters like learning rate and the number of neurons in the hidden layer.
         """
     )
@@ -42,7 +42,7 @@ def home():
     st.subheader("Collaborative Filtering for Fragrance Recommendations")
     st.write(
         """
-        The **Collaborative Filtering** model recommends perfumes based on **similarity** in scent profiles. It uses the **cosine similarity** between **TF-IDF vectors** derived from fragrance notes and accords to find the most similar perfumes.
+        The Collaborative Filtering model recommends perfumes based on **similarity** in scent profiles. It uses the cosine similarity between TF-IDF vectors derived from fragrance notes and accords to find the most similar perfumes.
         """
     )
 
